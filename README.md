@@ -1,6 +1,6 @@
 # J³R Studios
 
-![J³R Studios Logo](link-to-your-logo-image)
+![J³R Studios Logo](https://github.com/J-RStudio/.github/blob/main/J3R%20(5).png?raw=true)
 
 ## Welcome to J³R Studios!
 
