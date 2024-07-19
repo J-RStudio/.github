@@ -4,7 +4,7 @@
 
 ## Welcome to J³R Studios!
 
-J³R Studios (/ˈjo͞onyər sto͞odēō/) is a indie game development studio founded by four passionate developers. We are still at the beginning of our journey and are inspired in creating unique and thrilling gaming experiences for everyone.
+J³R Studios (/ˈjo͞onyər sto͞odēōs/) is a indie game development studio founded by four passionate developers. We are still at the beginning of our journey and are inspired in creating unique and thrilling gaming experiences for everyone.
 
 ## About Us
 
