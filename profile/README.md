@@ -15,7 +15,7 @@ We are four friends and developers who came together with the goal of creating i
 - **João Gil** - Programmer
 - **João Vieira** - Lead Artist
 - **João Macieira** - Game Designer
-- **José Rodrigo Matos** - Lead Game Designer
+- **Rodrigo Matos** - Lead Game Designer
 
 ## Games
 
