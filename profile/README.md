@@ -25,10 +25,6 @@ Currently, we are in the planning and development phase of our first game. Stay 
 
 - **Email:** joser.fmatos03@gmail.com
 
-## License
-
-The projects and code in this repository are licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for visiting our repository! Stay tuned for more updates and releases. 🎮✨
